@@ -1,2 +1,2 @@
-# Notification function for Study Place
+# Adafruit server
 
